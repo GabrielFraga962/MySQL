@@ -1,2 +1,2 @@
-# MySQL
-Repositório com a lista de exercícios feitos 
+# MySQL - workbench mysql
+- Repositório com a lista de exercícios feitos 
